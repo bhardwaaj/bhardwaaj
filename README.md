@@ -8,5 +8,6 @@
 - 📫 How to reach me: radheyji7185@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Implement Ideas For What, I Dream.<br>
-- ![image](https://user-images.githubusercontent.com/72184269/133196454-52a335ae-46f5-43a1-b74e-5283fdda9192.png)
+- ![image](https://user-images.githubusercontent.com/72184269/133196551-5944c860-1549-43a9-a896-1e4053bde5c7.png)
+
 
