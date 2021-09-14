@@ -7,6 +7,6 @@
 - 💬 Ask me about project building and project ideas
 - 📫 How to reach me: radheyji7185@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I Implement Ideas For What, I Dream.
+- ⚡ Fun fact: I Implement Ideas For What, I Dream.<br>
 - ![image](https://user-images.githubusercontent.com/72184269/133196454-52a335ae-46f5-43a1-b74e-5283fdda9192.png)
 
