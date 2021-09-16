@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I Implement Ideas For What, I Dream.<br><br><hr style="color=green">
 <img src="https://github-readme-stats.vercel.app/api?username=bhardwaaj&show_icons=true&theme=radical"><hr> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwaaj&theme=dark">
 
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
