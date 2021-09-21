@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on "Hack The Box" HTB
 - 🤔 I’m looking for help with CS50
 - 💬 Ask me about project building and project ideas
-- 📫 How to reach me: radheyji7185@gmail.com
+- 📫 How to reach me: abhaysingh.ml
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Implement Ideas For What, I Dream.<br><br><hr style="color=red">
 <img src="https://github-readme-stats.vercel.app/api?username=bhardwaaj&show_icons=true&theme=radical">
