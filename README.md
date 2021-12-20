@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I Implement Ideas For What, I Dream.<br><br><hr style="color=red">
 <img src="https://github-readme-stats.vercel.app/api?username=bhardwaaj&show_icons=true&theme=radical">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwaaj&theme=dark">
-
+<img src="https://developers.google.com/profile/badges/playlists/android/android-basics-kotlin-pathway-two">
 <hr>
 <h3 align="center">A passionate developer from India</h3>
 
